@@ -1,0 +1,43 @@
+{
+  "name": "material-design-icons-rough",
+  "version": "1.0.0",
+  "description": "draw material design icons via rough.js",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "generate": "node ./src/generate.js",
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hermeslin/material-design-icons-rough.git"
+  },
+  "author": "hermeslin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hermeslin/material-design-icons-rough/issues"
+  },
+  "homepage": "https://github.com/hermeslin/material-design-icons-rough#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "fs-path": "0.0.24",
+    "htmlparser": "^1.7.7",
+    "material-design-icons": "^3.0.1",
+    "npm": "^5.8.0",
+    "react": "^15.5.4",
+    "roughjs": "^2.0.1",
+    "webpack": "^2.6.1"
+  },
+  "peerDependencies": {
+    "react": "^15.5.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.5.1"
+  }
+}

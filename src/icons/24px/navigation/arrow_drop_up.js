@@ -1,0 +1,1 @@
+module.exports = [{"name":"path","attribs":{"d":"M7 14l5-5 5 5z"}}];

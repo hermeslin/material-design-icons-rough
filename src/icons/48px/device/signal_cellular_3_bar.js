@@ -1,0 +1,1 @@
+module.exports = [{"name":"path","attribs":{"fill-opacity":".3","d":"M4 44h40V4z"}},{"name":"path","attribs":{"d":"M34 14L4 44h30z"}}];

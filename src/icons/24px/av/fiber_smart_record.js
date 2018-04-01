@@ -1,0 +1,1 @@
+module.exports = [{"name":"g","attribs":{"fill":"#010101"}}];
