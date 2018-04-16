@@ -1,1 +1,0 @@
-module.exports = [{"name":"path","attribs":{"d":"M12 12h4v24h-4zm7 12l17 12V12z"}}];

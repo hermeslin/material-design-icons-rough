@@ -1,1 +1,0 @@
-module.exports = [{"name":"circle","attribs":{"fill":"#010101","cx":"12","cy":"12","r":"8"}}];

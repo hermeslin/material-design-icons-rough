@@ -1,1 +1,0 @@
-module.exports = [{"name":"path","attribs":{"fill-opacity":".3","d":"M4 44h40V4z"}}];
