@@ -3,7 +3,8 @@ the react component that draw material design icons via rough.js
 ![example](https://github.com/hermeslin/material-design-icons-rough/blob/master/example.png)
 
 ## icon list
-you can find all icons from [https://material.io/icons/](https://material.io/icons/)
+you can find all icons from [material-design-icons-module](https://github.com/hermeslin/material-design-icons-module)
+`material-design-icons-module` convert all svg icons into `npm module`
 
 ## install
 ```sh
@@ -27,11 +28,11 @@ class App extends Component {
           <li><MaterialRough name="action/account_circle" size="24" /></li>
           <li><MaterialRough name="action/account_circle" size="48" /></li>
           <li><MaterialRough name="action/android" size="24" /></li>
-          <li><MaterialRough name="action/android" size="48" /></li>      
+          <li><MaterialRough name="action/android" size="48" /></li>
           <li><MaterialRough name="action/face" size="24" /></li>
           <li><MaterialRough name="action/face" size="48" /></li>
           <li><MaterialRough name="action/favorite" size="24" /></li>
-          <li><MaterialRough name="action/favorite" size="48" /></li>     
+          <li><MaterialRough name="action/favorite" size="48" /></li>
         </ul>
       </div>
     );
