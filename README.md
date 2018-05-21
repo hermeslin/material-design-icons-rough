@@ -4,7 +4,8 @@ the react component that draw material design icons via rough.js
 
 ## icon list
 you can find all icons from [material-design-icons-module](https://github.com/hermeslin/material-design-icons-module)
-`material-design-icons-module` convert all svg icons into `npm module`
+
+it converts all svg icons into `npm module`
 
 ## install
 ```sh
@@ -41,3 +42,6 @@ class App extends Component {
 
 export default App;
 ```
+
+## LICENSE
+MIT Copyright 2018 [Hermes Lin](https://github.com/hermeslin)
